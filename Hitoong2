@@ -1,0 +1,23 @@
+package tugasmod4;
+
+public class Hitoong2 {
+    public void border() {
+        System.out.println("================================================================");
+    }
+    
+    public String judul (String halo) {
+        return halo + " di Program perhitungan rata rata Indeks Mahasiswa";
+    }
+    
+    public void border2(String border2){
+        System.out.println(border2);
+    }
+    
+    public void border3() {
+        System.out.println("================================================================");
+    }
+    
+    public void border4(String border4){
+        System.out.println(border4);
+    }
+}
